@@ -80,46 +80,34 @@
 
 
 
----
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Tools & Platforms
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white"></a>
-</p>
 
 
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
-
+### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LithiraUL&theme=tokyonight_duo" alt="LithiraUL"/>
 </p>
-</details>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+### 💻 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraUL&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LithiraUL&langs_count=10&show_icons=true&theme=tokyonight" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraUL&show_icons=true&count_private=true&theme=tokyonight&layout=compact" style="height:250px; width:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LithiraUL&langs_count=10&show_icons=true&theme=tokyonight" style="height:250px; width:auto; margin-left:10px;" />
 </p>
 
 
-</details>
-
-<details><summary><h3>:trophy: GitHub Trophies</h3></summary>
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LithiraUL&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LithiraUL"/>
 </p>
-</details>
 
 ---
+
+
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
