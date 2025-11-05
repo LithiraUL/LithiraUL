@@ -95,8 +95,8 @@
 ### 💻 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraUL&show_icons=true&count_private=true&theme=tokyonight&layout=compact" style="height:250px; width:auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LithiraUL&langs_count=10&show_icons=true&theme=tokyonight" style="height:250px; width:auto; margin-left:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraUL&show_icons=true&count_private=true&theme=tokyonight&layout=compact" style="height:230px; width:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LithiraUL&langs_count=10&show_icons=true&theme=tokyonight" style="height:230px; width:auto; margin-left:10px;" />
 </p>
 
 
