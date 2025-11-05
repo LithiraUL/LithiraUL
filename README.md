@@ -110,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LithiraUL&langs_count=10&show_icons=true&theme=tokyonight" height="230px"/>
 </p>
 
-<b>Note:</b> Top languages indicate repository content, not skill level.
+
 </details>
 
 <details><summary><h3>:trophy: GitHub Trophies</h3></summary>
